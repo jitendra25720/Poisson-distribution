@@ -14,8 +14,8 @@ $where, \lambda > 0$
 
 #### The Poisson(λ) Distribution can be approximated with Normal when λ is large.
 - #### If X ∼Poisson (λ)  ⇒  X ≈N ( μ=λ, σ=√λ), for λ>20, and the approximation improves as (the rate) λ increases.
-## Animation showing behaviour of poisson distribution for various values of mean $(\lambda)$
-![Poisson-ditribution](https://user-images.githubusercontent.com/86119527/189993849-59e9034c-cd00-425d-a0a9-b3f70f55c64c.gif)
+### Animation showing behaviour of poisson distribution for various values of mean $(\lambda)$
+![Poisson-ditribution (1)](https://user-images.githubusercontent.com/86119527/190001620-cc09a7ad-5034-42d0-a986-cc847ba1025c.gif)
 
 ### Some examples of poisson distribution
 - The number of telephone calls per minute in a small business.
