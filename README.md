@@ -8,7 +8,7 @@ $P(X=x) = \frac{\lambda^{x} e^{-\lambda}}{x!}$
 
 $where, \lambda > 0$
 
-### Mean and Variance of poission distribution
+### Mean and Variance of poisson distribution
 - $mean = variance = \lambda$
 
 
